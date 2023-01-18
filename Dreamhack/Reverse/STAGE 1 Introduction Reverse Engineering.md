@@ -15,7 +15,7 @@
     - 완성된 제품을 해체하고 분석하여 구조와 기능, 디자인을 파악한다.
     - 엔지니어링에 여러 분야가 있는 것처럼 리버싱에도 여러 분야가 있다.
         
-        <img src="[Dreamhack/Reverse/Image/Stage1_1.png](https://github.com/Bookgom/SWUFORCE_2023_Study/blob/main/Dreamhack/Reverse/Image/Stage1_1.png?raw=true)" width="300">
+        <img src="https://github.com/Bookgom/SWUFORCE_2023_Study/blob/main/Dreamhack/Reverse/Image/Stage1_1.png?raw=true" width="300">
         
 
 ---
